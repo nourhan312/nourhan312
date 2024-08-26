@@ -29,7 +29,7 @@
 </p>
 
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=nourhanayman312&show_icons=true&locale=en&layout=compact)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=nourhan312&show_icons=true&locale=en&layout=compact)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=nourhanayman312&)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=nourhan312&)
 
