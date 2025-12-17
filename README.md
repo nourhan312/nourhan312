@@ -23,13 +23,14 @@
 </p>
 
 ## Connect with me:
-<p align="left">
+<p align="left
 <a href="https://www.linkedin.com/in/nourhan-ayman-465724254/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/nourhan-ayman-465724254/" height="30" width="40" /></a>
 
 </p>
 
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=nourhan312&show_icons=true&locale=en&layout=compact)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=nourhan312&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+</div>
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=nourhan312&)
 
