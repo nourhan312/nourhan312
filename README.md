@@ -12,7 +12,7 @@
 </p>
 
 - 🏢 I'm a passionate Flutter Developer
-- 👨‍💻 As a CS student, I have a strong foundation in programming, constantly learning and exploring new technologies to improve my skills.
+- 👨‍💻 I have a strong foundation in programming, constantly learning and exploring new technologies to improve my skills.
 
 ## Languages and Tools:
 
