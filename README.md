@@ -14,13 +14,14 @@
 - 🏢 I'm a passionate Flutter Developer
 - 👨‍💻 I have a strong foundation in programming, constantly learning and exploring new technologies to improve my skills.
 
-## Languages and Tools:
+## 🛠️ Languages and Tools:
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cpp,python,java,dart,flutter,sqlite,html,css,javascript,git,github,figma&perline=7" />
+    <img src="https://skillicons.dev/icons?i=cpp,python,dart,flutter,firebase,supabase,sqlite,java,postman,git,github,figma,linux,pycharm,vscode&perline=8" />
   </a>
 </p>
+
 
 ## Connect with me:
 <p align="left
